@@ -1,0 +1,519 @@
+link
+body{
+	max-block-size: 100%;
+}
+.header-header{
+	width:100%;
+	height:160px;
+	background-image: url(./image/Background_header.png);
+	transition: 10s;
+}
+.header-header:hover{
+  transition: width 5s;
+  width: 1px;
+  font-size: 40px;
+  justify-content: center;
+  transition: 10s;
+}
+.imgbaner:hover{
+	border: solid lime 3px;
+	width:90%;
+}
+.Logo-Header{
+	display:flex;
+	justify-content:space-around;
+	width:100%;
+	align-items: center;
+
+}
+.menu-menu{
+background:linear-gradient(45deg,blue,purple,indigo);
+width:100%;
+justify-content:space-aorund;
+}
+.menu-menu:hover {
+  transition: width 3s;
+  width:100%;
+  transition:10s;
+ background:linear-gradient(45deg,yellow,orange,red);
+ border: solid 2px black;
+}
+.menu{
+display:flex;
+width:40%;
+height: 83px;
+margin-bottom:-82px;
+padding-left:10%;
+justify-content:space-aorund;
+}
+.content{
+	width:100%;
+}
+.follow{
+width:100%;
+display:flex;
+flex-wrap:wrap;
+justify-content:flex-end;
+align-items:center;
+margin-left:-40px;
+}
+
+.instagram{
+	height:20px;
+	width:20px;
+background:linear-gradient(130deg,blue,red,pink,orange);
+}
+.facebook{
+	height:20px;
+	width:20px;
+	background-color:blue;
+	margin-left:5px;
+}
+.twitter{
+	height:20px;
+	width:20px;
+	background-color:blue;
+	margin-left:5px;
+}
+.linkdin{
+	height:20px;
+	width:20px;
+	background-color:lime;
+	margin-left:5px;
+	margin-right:20px;
+}
+
+.Photo.{
+	display:flex;
+	width:90%;
+}
+
+.Subtext{
+margin-top:-400px;
+margin-bottom:100px;
+margin-left:200px;
+
+}
+.Subcontent223{
+	display:flex;
+	max-width:20%;
+	margin-left:200px;
+	margin-top:-100px;
+	margin-bottom:50px;
+}
+.Button1234{
+margin-left:200px;
+}
+
+.Services{
+	max-width: 100%;
+	display:flex;
+	margin-top:200px;
+	justify-content:space-between;
+}
+.Heading{
+margin-left:10%;
+}
+
+.Content2{
+margin-left:-20%px;
+justify-content:space-around;
+max-width:100%;
+margin-top:200px;
+align-items:center;
+}
+.Photo..{
+width:100%;
+border: 1px solid black;
+}
+.Photo:hover{
+	border: solid lime 3px;
+	width:100%;
+
+}
+.About1{
+	display:flex;
+	align-items: center;
+	width:50%;
+
+}
+.t1{
+	margin-bottom:10%;
+		margin-left:-20%;
+}
+.t2{
+	margin-bottom:30%;
+	margin-left:-20%;
+}
+
+.background{
+background-image:url(./image/Photo..png);
+width:100%;
+}
+.Content3{
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: row;
+ margin-top: -5%;
+ margin-bottom:10%;
+ margin-left:35%;
+}
+.Counter{
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: row;
+ margin-bottom: 5%;
+}
+.Content3:hover{
+	  transform:scale(1,3);
+}
+.Conten{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:center;
+}
+.snow{
+display:flex;
+
+}
+.kartinka3{
+	display:flex;
+	width:100%;
+	height:300px;
+	background-image:url(./image/Background-menu.png);
+	background:linear-gradient(45deg,orange,orange,whitesmoke);
+	margin-top:200px;
+	margin-bottom:-90px;
+	transition: 2s;
+}
+.kartinka3:hover{
+  transition: width 4s;
+  width: 800px;
+  margin-left: 100px;
+  transition: margin-left 2s;
+}	
+
+.image{
+	display:flex;
+	max-width:100%;
+	margin-top:-150px;
+	margin-bottom:5%;
+	align-items:center ;
+justify-content:center;
+}
+
+.f1{ 
+	margin-left:45px;
+}
+.f2{
+	margin-left:10px;
+}
+.f3{
+	margin-left:10px;
+}
+.f4{
+	margin-left:10px;
+}
+.f5{
+	margin-left:10px;
+}
+
+.kartinka2{
+	display:flex;
+	margin-top:-200px;
+	margin-left:200px;
+}
+
+.Testimonial{
+
+}
+.Title{
+	display:flex;
+	margin-top:200px;
+	justify-content: center;
+}
+.Users{
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: row;
+}
+.user1{
+margin-top:50px;
+transition: 3s;
+}
+.user1:hover{
+	  transform:scale(2,2);
+}
+
+.user2{
+margin-top:50px;
+transition: 3s;
+}
+.user2:hover{
+	  transform:scale(2,2);
+}
+
+.WHychooseus{
+
+	background-color:darkblue;
+ justify-content: center;
+ align-items: center;
+ max-width:100%;
+ height:600px;
+}
+.Background8{
+	margin-top:100px;
+ margin-left:50%;
+ padding-bottom: -200px;
+ width:50%;
+ height:600px;
+ flex-direction: row;
+ background-color: rgb(235, 235, 235);
+ transition: 3s;
+}
+.Background8:hover{
+transform: scale(1,2);
+}
+.Content43{
+	margin-top:-500px;
+	margin-left:750px;
+}
+.Text{
+margin-left:-5%;
+margin-top:-550px;
+}
+.Features{
+display:flex;
+margin-top:100px;
+margin-left:-20%;
+}
+.Features1{
+display:flex;
+margin-left:10%;
+}
+.Features2{
+display:flex;
+margin-left:10%;
+margin-right:100px;
+
+}
+.image7{
+	width:500px;
+	height:250px;
+	margin-top:-150px;
+	margin-left:10%;
+	max-width:500px;
+	transition: 3s;
+}
+.image7:hover{
+	 transform-origin: bottom-center;
+  transform: rotate(45deg);
+}
+.Featuretag{
+	width:250px;
+	margin-left:25%;
+	margin-top:-45px;
+}
+.pattern{
+	width:500px;
+	margin-left:360px;
+	margin-top:-440px;
+}
+.Title124{
+	width:200px;
+	margin-top:100px;
+	margin-left:260px;
+}
+.team1{
+justify-content:space-around;
+margin-left:375px;
+margin-bottom:90%;
+}
+.t1123{
+width:200px;
+margin-top:20px;
+margin-left:-40px;
+}
+
+.t2123{
+width:200px;
+margin-left:80px;
+margin-top:-150px;
+}
+.t3123{
+width:200px;
+margin-left:200px;
+margin-top:-149.8px;
+margin-bottom: 10%;
+}
+.Contact314{
+	background-color:#090945;
+	max-width:100%;
+	height:1000px;
+	margin-top:-55%;
+	transition: 6s;
+}
+.Contact314:hover{
+	transition:background 3s;
+background:linear-gradient(45deg,green,yellow,green,yellow,green,yellow,green,yellow);
+
+}
+
+.Content1011{
+	margin-left:15%;
+	margin-top:-25%;
+	}
+.Content1012{
+margin-top:5%;
+	}
+.Name{
+	background-color:#090945;
+	border: solid white 1px;
+	margin-left:50%;
+	margin-top:7%;
+	height:5%;
+	width:16%;
+	color:white;
+}	
+.Email{
+	background-color:#090945;
+	border: solid white 1px;
+	margin-left:5%;
+	height:5%;
+	width:16%;
+	color:white;
+}
+.PhoneNumber{
+  background-color:#090945;
+	border: solid white 1px;
+	margin-left:50%;
+	height:5%;
+	width:16%;
+	color:white;
+}
+.City{
+	background-color:#090945;
+	border: solid white 1px;
+	margin-top:2%;
+	margin-left:5%;
+	height:5%;
+	width:16%;
+	color:white;
+}
+.YourMessage{
+	background-color:#090945;
+	border: solid white 1px;
+	margin-left:50%;
+	margin-top:4%;
+	height:12%;
+	width:38%;
+	color:white;
+}
+.Form2{
+		margin-left:45%;
+		margin-top:10%;
+}
+.t123467{
+	margin-left:30%;
+}
+.ClientLogo{
+	Margin-top:-25%;
+}
+.t1098{
+	display:flex;
+	margin-left:23%;
+}
+.t2098{
+		display:flex;
+	margin-left:36%;
+	margin-top:-9.4%;
+}
+.t3098{
+		display:flex;
+	margin-left:49%;
+		margin-top:-9.45%;
+}
+.t4098{
+	display:flex;
+	margin-left:62%;
+			margin-top:-9.45%;
+}
+.Butttton{
+	display:flex;
+	 justify-content: center;
+ align-items: center;
+ margin-top:15%;
+ margin-bottom:40%;
+ m
+}
+.Blog{
+display:flex;
+	margin-top:40%;
+ justify-content: center;
+ align-items: center;
+  flex-direction: column;
+}
+.Title334{
+	display:flex;
+}
+.Content1036{
+
+}
+
+.Footer{
+Height:500px;
+}
+
+.Image91{
+	margin-top:-20%;
+	width:100%;
+}
+.Background56{
+	margin-top:-1%;
+	height:500px;
+}
+.Background1{
+	background-color: darkblue;
+	margin-top:-41%;
+}
+.Background23{
+	background-color: darkblue;
+	margin-top:-29.5%;
+}
+.Logo12{
+	margin-left:27%;
+	margin-top:-6%;
+}
+.Pages242{
+	margin-top:-28%;
+	margin-left:35%;
+}
+.Utility{
+	margin-top:-33.7%;
+	margin-left:60%;
+}
+.Subscribe{
+	margin-top:-33.7%;
+	margin-left:78%;
+}
+.BuTTon{
+
+	margin-left:75%;
+	margin-top:1%;
+}
+.Email2{
+	margin-left:75%;
+	margin-top:17%;
+}
+.linkdin2{
+	margin-left:85%;
+	margin-bottom:;
+}
+.Copyright{
+	margin-top:5%;
+	bacground-color:#0a0a32;
+	margin-left:-37%;
+}
